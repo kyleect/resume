@@ -8,11 +8,11 @@
     "description": "Oversaw quality and testing practices on a feature team. Helped delivery feature from concept to first beta users.",
     "stack": "AWS, Angular, Protractor, Typescript, Runscope, Azure DevOps, Python, Locust, MSSQL",
     "items": [
-      "Collaborated to get existing broken test suite running in continuous integration/deployment pipeline",
-      "Converted existing protractor tests to accept parameterization for testing feature",
-      "Researched and evaluated testing solutions for API contract and load testing",
-      "Implemented contract testing for third party API required for feature",
-      "Provided cross team quality and testing coaching"
+      "Wrote test cases for features implemented by team",
+      "Tested features implemented by team",
+      "Worked with product owner to accept features",
+      "Implemented contract testing for a third party API required for team's primary feature",
+      "Provided cross team quality/testing coaching and support"
     ]
   },
   {
@@ -46,20 +46,21 @@
     "description": ""
   },
   {
-    "title": "Software Engineer",
+    "title": "Quality Engineer",
     "company": "Athene USA",
     "dateStart": "Sep 2016",
     "dateEnd": "Sep 2017",
     "location": "Des Moines, Iowa Area",
-    "description": "Built an evergreen QA automation team/practice. Leading those efforts through a subcommittee developing our technology stack, processes, documentation & best practices. I was also the lead QA engineer for my business channel as well as rotating scrum master for channels.",
+    "description": "Built an evergreen QA automation team/practice. Lead those efforts through a subcommittee developing our technology stack, processes, documentation & best practices. I was also the lead QA engineer for my business channel as well as rotating scrum master for channels.",
     "stack": "Python, Webdriver, Oracle DB",
     "items": [
-      "Managing multiple remote resources work and output",
-      "Created library for validating PDFs against a reference document written in Python",
-      "Created a extensible test framework for Selenium tests written in Python. This provides parallel test execution, parameterized tests, webdriver management, page object integration, screenshots, plugins, junit/html reporting, coupling automation to assertions for better reporting and declarative test definitions",
-      "Created a parser/validator for DTCC standard data formats (POV, COM, FAR) and test suite to validator generated DTCC files",
-      "Created an automation suite to consume declarative style data files and drive data input automation for Trilogy's DCM application",
-      "Implemented roles based security testing using selenium automation"
+      "Collaborated with product owner, test lead & developers to create test strategy for business channel and test plans for products",
+      "Delivered all test automation for business channel",
+      "Managed a small team of remote testers",
+      "Implemented library for parsing and validating DTCC data files (POV, COM, FAR)",
+      "Implemented library for validating PDF files against a template PDF file",
+      "Implemented roles based security end to end test suite",
+      "Created automation suite to input data in to Trilogy DCM using declarative data files"
     ]
   },
   {
@@ -71,14 +72,12 @@
     "description": "Responsible for implementing system acceptance testing using Protractor across multiple applications.",
     "stack": "Protractor, Typescript, MSSQL, Jenkins",
     "items": [
-      "Completed backlog of test automation",
-      "Decreased test code compilation time from 20 minutes to 10 seconds",
+      "Cleared lengthy backlog of test automation",
+      "Standardized all protractor test suites and page object implementations",
+      "Standardized how test data was defined and used",
       "Integrated protractor tests in to continuous integration/deployment pipeline",
-      "Increased integration to development cycle by pushing for the automation team to attend development meetings",
       "Implemented load and stress testing of the API using JMeter",
-      "Created application for taking telemetry data and generating JMeter test plans",
-      "Refactored large portions of the testing code base including page objects, test data retrieval, logging and test result reporting",
-      "Overhauled how test data is defined and populated for tests by creating a standardized conventions"
+      "Implemented script for generating JMeter test plans from telemetry data"
     ]
   },
   {
@@ -91,7 +90,7 @@
     "stack": "C#, Xamarin, iOS, MSSQL, Jenkins",
     "items": [
       "Implemented system acceptance testing for a cross platform mobile application developed with Xamarin",
-      "Created application for visualizing spatiotemporal data onto map"
+      "Created web app for visualizing spatiotemporal ag data onto a map"
     ]
   },
   {
