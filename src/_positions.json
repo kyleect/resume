@@ -42,7 +42,7 @@
     "stack": "AWS, Java, Spring Boot, jUnit, React, Jest, Typescript, Scala, Python, Ruby, Groovy, Jenkins, Swagger, Gatling, Prometheus",
     "items": [
       "Developed and tested applications",
-      "Deployed and maintained AWS infrastructure",
+      "Deployed and maintained AWS infrastructure through CloudFormation",
       "Helped drive team towards full cross functionality where development, testing, ops are tasks not roles",
       "Acted as the team's test lead",
       "Provided insight to risk mitigation, testing concerns",
@@ -51,7 +51,9 @@
       "Provided coaching around javascript, node, React and general web technologies",
       "Developed testing tools and processes for the team",
       "Created and maintained swagger documents for feature APIs",
-      "Participate in on-call rotation in after-hours support of all team's systems"
+      "Participated in on-call rotation in after-hours support of all team's systems",
+      "Developed tool for testing CloudWatch alarms and their integration with xMatters",
+      "Implemented other teams features or backlog to unblock delivery"
     ]
   },
   {
