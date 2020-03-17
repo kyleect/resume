@@ -2,6 +2,7 @@
 	import ContactList from './ContactList.svelte';
 	import Experience from './Experience.svelte';
 	import positions from './_positions.json';
+	import Position from './Position.svelte';
 </script>
 
 <style>
@@ -27,4 +28,14 @@
 	<h2>Experience</h2>
 
 	<Experience {positions} />
+
+	<h2>Volunteer</h2>
+
+	<Position
+		title="Director of Education"
+		company="Des Moines Area Quality Assurance Association"
+		dateStart="Jan 2019"
+		description="Working to develop the educational content and direction for the user group"
+		location="Des Moines, IA Area"
+	/>
 </main>
