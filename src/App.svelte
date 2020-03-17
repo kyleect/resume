@@ -14,6 +14,11 @@
 		margin-top: 0;
 		margin-bottom: .5em;
 	}
+
+	h2 {
+		margin-top: 0;
+		margin-bottom: .5em;
+	}
 </style>
 
 <main>
