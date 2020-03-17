@@ -24,5 +24,7 @@
 
 	<p>I am a software engineer with several years of experience with development, testing and how they converge to delivering a quality product. Looking for positions where I can lead feature teams towards high delivery.</p>
 
+	<h2>Experience</h2>
+
 	<Experience {positions} />
 </main>

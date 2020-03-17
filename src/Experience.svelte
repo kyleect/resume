@@ -16,8 +16,6 @@
   }
 </style>
 
-<h2>Experience</h2>
-
 {#if positions}
   <ul>
   {#each positions as position}
