@@ -5,7 +5,7 @@
     "dateStart": "Nov 2015",
     "dateEnd": "Mar 2020",
     "location": "Des Moines, Iowa Area",
-    "description": "",
+    "description": "Worked as a consultant to clients as well as worked on internal projects.",
     "items": [
       "Conducted peer interviews for potential engineers",
       "Presented talks and workshops on-site and conferences",
@@ -38,7 +38,7 @@
     "dateStart": "Sep 2017",
     "dateEnd": "Oct 2019",
     "location": "Des Moines, Iowa Area",
-    "description": "A R&D feature team focused on delivering ag data applications",
+    "description": "A R&D feature team focused on delivering ag data applications.",
     "stack": "AWS, Java, Spring Boot, React, Scala, Python, Jenkins, Swagger, Gatling",
     "items": [
       "Developed and tested applications",
@@ -79,7 +79,7 @@
     "dateStart": "Dec 2015",
     "dateEnd": "Apr 2016",
     "location": "Des Moines, Iowa Area",
-    "description": "Responsible for implementing system acceptance tests for a cross platform mobile application developed with Xamarin",
+    "description": "A pilot feature team to delivery a mobile application for uploading ag data.",
     "stack": "C#, Xamarin, iOS, MSSQL, Jenkins",
     "items": [
       "Implemented system acceptance testing for a cross platform mobile application developed with Xamarin",
