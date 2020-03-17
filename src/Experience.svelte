@@ -11,7 +11,7 @@
   }
 
   li {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
   }
 </style>
 
@@ -28,6 +28,7 @@
         dateEnd={position.dateEnd}
         location={position.location}
         description={position.description}
+        stack={position.stack}
         items={position.items}
       />
     </li>

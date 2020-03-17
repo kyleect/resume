@@ -6,6 +6,7 @@
   export let location;
   export let description;
   export let items;
+  export let stack;
 </script>
 
 <style>
@@ -18,13 +19,20 @@
     font-size: 1.1em;
   }
 
-  .company, .description, .skills {
+  .company, .description, .stack {
     margin-top: .5em;
   }
 
-  .company, .dates, .location, .description, .skills {
-    font-size: .9em;
+  .company, .dates, .location, .description, .stack, .skills {
+    font-size: .85em;
+  }
 
+  .skills {
+    padding: 0;
+  }
+
+  .stack, .skills {
+    margin-top: 1em;
   }
 </style>
 
@@ -32,11 +40,13 @@
 
 <p class="company">{company}</p>
 
-<p class="dates">{dateStart}-{dateEnd}</p>
+<p class="dates">{dateStart} -- {dateEnd}</p>
 
 <p class="location">{location}</p>
 
 <p class="description">{description}</p>
+
+
 
 {#if items}
   <ul class="skills">
@@ -44,4 +54,8 @@
       <li>{item}</li>
     {/each}
   </ul>
+{/if}
+
+{#if stack}
+  <p class="stack">Stack: {stack}</p>
 {/if}

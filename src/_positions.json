@@ -5,7 +5,15 @@
     "dateStart": "Nov 2019",
     "dateEnd": "Mar 2020",
     "location": "Des Moines, Iowa Area",
-    "description": "Oversaw quality and testing practices on a feature team. Helped delivery feature from concept to first beta users. Provided cross team quality and testing coaching."
+    "description": "Oversaw quality and testing practices on a feature team. Helped delivery feature from concept to first beta users.",
+    "stack": "AWS, Angular, Protractor, Typescript, Runscope, Azure DevOps, Python, Locust, MSSQL",
+    "items": [
+      "Collaborated to get existing broken test suite running in continuos integration/deployment pipeline",
+      "Converted existing protractor tests to accept parameterization for testing feature",
+      "Researched and evaluated testing solutions for API contract and load testing",
+      "Implemented contract testing for third party API required for feature",
+      "Provided cross team quality and testing coaching"
+    ]
   },
   {
     "title": "Senior Software Engineer",
@@ -14,8 +22,8 @@
     "dateEnd": "Oct 2019",
     "location": "Des Moines, Iowa Area",
     "description": "R&D feature team focused delivering ag data applications",
+    "stack": "AWS, Java, Spring Boot, React, Scala, Python, Jenkins",
     "items": [
-      "Stack: AWS, Java, Spring Boot, React, Scala, Python",
       "Developed and tested applications",
       "Deployed and maintained AWS infrastructure",
       "Helped drive team towards full cross functionality where development, testing, ops are tasks not roles",
@@ -25,7 +33,8 @@
       "Cross team quality and testing coaching",
       "Provided coaching around javascript, node, React and general web technologies",
       "Developed testing tools and processes for the team",
-      "Creating and maintaining swagger documents for feature APIs"
+      "Creating and maintaining swagger documents for feature APIs",
+      "Participated in team's on-call rotation"
     ]
   },
   {
@@ -43,6 +52,7 @@
     "dateEnd": "Sep 2017",
     "location": "Des Moines, Iowa Area",
     "description": "Built an evergreen QA automation team/practice. Leading those efforts through a subcommittee developing our technology stack, processes, documentation & best practices. I was also the lead QA engineer for my business channel as well as rotating scrum master for channels.",
+    "stack": "Python, Webdriver, Oracle DB",
     "items": [
       "Managing multiple remote resources work and output",
       "Created library for validating PDFs against a reference document written in Python",
@@ -59,6 +69,7 @@
     "dateEnd": "Sep 2016",
     "location": "Des Moines, Iowa Area",
     "description": "Responsible for implementing system acceptance testing using Protractor across multiple applications.",
+    "stack": "Protractor, Typescript, MSSQL, Jenkins",
     "items": [
       "Completed backlog of test automation",
       "Decreased test code compilation time from 20 minutes to 10 seconds",
@@ -77,6 +88,7 @@
     "dateEnd": "Apr 2016",
     "location": "Des Moines, Iowa Area",
     "description": "Responsible for implementing system acceptance tests for a cross platform mobile application developed with Xamarin",
+    "stack": "C#, Xamarin, iOS, MSSQL, Jenkins",
     "items": [
       "Implemented system acceptance testing for a cross platform mobile application developed with Xamarin",
       "Created application for visualizing spatiotemporal data onto map"
@@ -97,6 +109,7 @@
     "dateEnd": "Oct 2015",
     "location": "Palo Alto, CA Area",
     "description": "Responsible for designing, implementing and maintaining system acceptance testing across multiple applications/environments.",
+    "stack": "AWS, Ruby, Ruby On Rails, Webdriver, RSpec, Jenkins",
     "items": [
       "Moved company from manual QA processes to automated giving us better test coverage, faster deploys and more time for QAs to perform exploratory testing",
       "Implemented system acceptance testing using Selenium",
