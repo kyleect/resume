@@ -113,7 +113,7 @@
     "dateEnd": "Oct 2015",
     "location": "Palo Alto, CA Area",
     "description": "Responsible for designing, implementing and maintaining system acceptance testing across multiple applications/environments.",
-    "stack": "AWS, Ruby, Ruby On Rails, Webdriver, RSpec, Jenkins",
+    "stack": "AWS, Ruby, Ruby On Rails, Webdriver, RSpec, Jenkins, Postgres, Redis",
     "items": [
       "Moved company from manual QA processes to automated giving us better test coverage, faster deploys and more time for QAs to perform exploratory testing",
       "Implemented system acceptance testing using Selenium",
