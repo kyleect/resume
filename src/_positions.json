@@ -56,7 +56,7 @@
     "items": [
       "Managing multiple remote resources work and output",
       "Created library for validating PDFs against a reference document written in Python",
-      "Created a extensible test framework for Selenium tests written in Python. This provides parallel test execution, parameterized tests, webdriver management, page object awareness, screenshots, plugins, junit/html reporting, coupling automation to assertions for better reporting and declarative test definitions",
+      "Created a extensible test framework for Selenium tests written in Python. This provides parallel test execution, parameterized tests, webdriver management, page object integration, screenshots, plugins, junit/html reporting, coupling automation to assertions for better reporting and declarative test definitions",
       "Created a parser/validator for DTCC standard data formats (POV, COM, FAR) and test suite to validator generated DTCC files",
       "Created an automation suite to consume declarative style data files and drive data input automation for Trilogy's DCM application",
       "Implemented roles based security testing using selenium automation"
