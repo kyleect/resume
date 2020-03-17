@@ -8,7 +8,7 @@
     "description": "Oversaw quality and testing practices on a feature team. Helped delivery feature from concept to first beta users.",
     "stack": "AWS, Angular, Protractor, Typescript, Runscope, Azure DevOps, Python, Locust, MSSQL",
     "items": [
-      "Collaborated to get existing broken test suite running in continuos integration/deployment pipeline",
+      "Collaborated to get existing broken test suite running in continuous integration/deployment pipeline",
       "Converted existing protractor tests to accept parameterization for testing feature",
       "Researched and evaluated testing solutions for API contract and load testing",
       "Implemented contract testing for third party API required for feature",
@@ -73,7 +73,7 @@
     "items": [
       "Completed backlog of test automation",
       "Decreased test code compilation time from 20 minutes to 10 seconds",
-      "Integrated protractor tests in to continuos integration/deployment pipeline",
+      "Integrated protractor tests in to continuous integration/deployment pipeline",
       "Increased integration to development cycle by pushing for the automation team to attend development meetings",
       "Implemented load and stress testing of the API using JMeter",
       "Created application for taking telemetry data and generating JMeter test plans",
