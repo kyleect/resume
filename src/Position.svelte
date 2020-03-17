@@ -40,7 +40,7 @@
 
 <p class="company">{company}</p>
 
-<p class="dates">{dateStart} -- {dateEnd}</p>
+<p class="dates">{dateStart} -- {#if dateEnd}{dateEnd}{/if}</p>
 
 <p class="location">{location}</p>
 
