@@ -8,6 +8,7 @@
 </style>
 
 <ul>
-  <li><a href="mailto:kylee@testingrequired.com">kylee@testingrequired.com</a></li>
   <li>515-776-6568</li>
+  <li><a href="mailto:kylee@testingrequired.com">kylee@testingrequired.com</a></li>
+  <li><a href="https://www.linkedin.com/in/kyleetilley/">linkedin.com/in/kyleetilley</a></li>
 </ul>
