@@ -22,6 +22,7 @@
     <li>
       <Position
         title={position.title}
+        subposition={position.subposition}
         company={position.company}
         dateStart={position.dateStart}
         dateEnd={position.dateEnd}

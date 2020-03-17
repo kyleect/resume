@@ -7,6 +7,7 @@
   export let description;
   export let items;
   export let stack;
+  export let subposition = false;
 </script>
 
 <style>
@@ -17,6 +18,10 @@
   .title {
     font-weight: bold;
     font-size: 1.1em;
+  }
+
+  .subtitle {
+    font-weight: bold;
   }
 
   .company, .description, .stack {
@@ -36,7 +41,7 @@
   }
 </style>
 
-<p class="title">{title}</p>
+<p class={subposition ? "subtitle" : "title"}>{title}</p>
 
 <p class="company">{company}</p>
 

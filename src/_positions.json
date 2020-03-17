@@ -1,6 +1,15 @@
 [
   {
+    "title": "Software Engineer",
+    "company": "Source Allies, Inc.",
+    "dateStart": "Nov 2015",
+    "dateEnd": "Mar 2020",
+    "location": "Des Moines, Iowa Area",
+    "description": ""
+  },
+  {
     "title": "Test Lead",
+    "subposition": true,
     "company": "Corteva Agriscience",
     "dateStart": "Nov 2019",
     "dateEnd": "Mar 2020",
@@ -17,6 +26,7 @@
   },
   {
     "title": "Senior Software Engineer",
+    "subposition": true,
     "company": "John Deere",
     "dateStart": "Sep 2017",
     "dateEnd": "Oct 2019",
@@ -39,11 +49,35 @@
   },
   {
     "title": "Software Engineer",
-    "company": "Source Allies, Inc.",
-    "dateStart": "Sep 2017",
-    "dateEnd": "Mar 2020",
+    "subposition": true,
+    "company": "Pioneer",
+    "dateStart": "May 2016",
+    "dateEnd": "Sep 2016",
     "location": "Des Moines, Iowa Area",
-    "description": ""
+    "description": "Responsible for implementing system acceptance testing using Protractor across multiple applications.",
+    "stack": "Protractor, Typescript, MSSQL, Jenkins",
+    "items": [
+      "Cleared lengthy backlog of test automation",
+      "Standardized all protractor test suites and page object implementations",
+      "Standardized how test data was defined and used",
+      "Integrated protractor tests in to continuous integration/deployment pipeline",
+      "Implemented load and stress testing of the API using JMeter",
+      "Implemented script for generating JMeter test plans from telemetry data"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "subposition": true,
+    "company": "Pioneer",
+    "dateStart": "Dec 2015",
+    "dateEnd": "Apr 2016",
+    "location": "Des Moines, Iowa Area",
+    "description": "Responsible for implementing system acceptance tests for a cross platform mobile application developed with Xamarin",
+    "stack": "C#, Xamarin, iOS, MSSQL, Jenkins",
+    "items": [
+      "Implemented system acceptance testing for a cross platform mobile application developed with Xamarin",
+      "Created web app for visualizing spatiotemporal ag data onto a map"
+    ]
   },
   {
     "title": "Quality Engineer",
@@ -62,44 +96,6 @@
       "Implemented roles based security end to end test suite",
       "Created automation suite to input data in to Trilogy DCM using declarative data files"
     ]
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Pioneer",
-    "dateStart": "May 2016",
-    "dateEnd": "Sep 2016",
-    "location": "Des Moines, Iowa Area",
-    "description": "Responsible for implementing system acceptance testing using Protractor across multiple applications.",
-    "stack": "Protractor, Typescript, MSSQL, Jenkins",
-    "items": [
-      "Cleared lengthy backlog of test automation",
-      "Standardized all protractor test suites and page object implementations",
-      "Standardized how test data was defined and used",
-      "Integrated protractor tests in to continuous integration/deployment pipeline",
-      "Implemented load and stress testing of the API using JMeter",
-      "Implemented script for generating JMeter test plans from telemetry data"
-    ]
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Pioneer",
-    "dateStart": "Dec 2015",
-    "dateEnd": "Apr 2016",
-    "location": "Des Moines, Iowa Area",
-    "description": "Responsible for implementing system acceptance tests for a cross platform mobile application developed with Xamarin",
-    "stack": "C#, Xamarin, iOS, MSSQL, Jenkins",
-    "items": [
-      "Implemented system acceptance testing for a cross platform mobile application developed with Xamarin",
-      "Created web app for visualizing spatiotemporal ag data onto a map"
-    ]
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Source Allies, Inc.",
-    "dateStart": "Nov 2015",
-    "dateEnd": "Sep 2016",
-    "location": "Des Moines, Iowa Area",
-    "description": ""
   },
   {
     "title": "Quality Engineer",
