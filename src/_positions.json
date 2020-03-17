@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Test Lead",
+    "company": "Corteva Agriscience",
+    "dateStart": "Nov 2019",
+    "dateEnd": "Mar 2020",
+    "location": "Des Moines, Iowa Area",
+    "description": "Oversaw quality and testing practices on a feature team. Helped delivery feature from concept to first beta users. Provided cross team quality and testing coaching."
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "John Deere",
+    "dateStart": "Sep 2017",
+    "dateEnd": "Oct 2019",
+    "location": "Des Moines, Iowa Area",
+    "description": "R&D feature team focused delivering ag data applications",
+    "items": [
+      "Stack: AWS, Java, Spring Boot, React, Scala, Python",
+      "Developed and tested applications",
+      "Deployed and maintained AWS infrastructure",
+      "Helped drive team towards full cross functionality where development, testing, ops are tasks not roles",
+      "Acted as the team's test lead",
+      "Provided insight to risk mitigation, testing concerns",
+      "Provided quality and testing coaching to the team through pairing and katas",
+      "Cross team quality and testing coaching",
+      "Provided coaching around javascript, node, React and general web technologies",
+      "Developed testing tools and processes for the team",
+      "Creating and maintaining swagger documents for feature APIs"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Source Allies, Inc.",
+    "dateStart": "Sep 2017",
+    "dateEnd": "Mar 2020",
+    "location": "Des Moines, Iowa Area",
+    "description": ""
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Athene USA",
+    "dateStart": "Sep 2016",
+    "dateEnd": "Sep 2017",
+    "location": "Des Moines, Iowa Area",
+    "description": "Built an evergreen QA automation team/practice. Leading those efforts through a subcommittee developing our technology stack, processes, documentation & best practices. I was also the lead QA engineer for my business channel as well as rotating scrum master for channels.",
+    "items": [
+      "Managing multiple remote resources work and output",
+      "Created library for validating PDFs against a reference document written in Python",
+      "Created a extensible test framework for Selenium tests written in Python. This provides parallel test execution, parameterized tests, webdriver management, page object awareness, screenshots, plugins, junit/html reporting, coupling automation to assertions for better reporting and declarative test definitions",
+      "Created a parser/validator for DTCC standard data formats (POV, COM, FAR) and test suite to validator generated DTCC files",
+      "Created an automation suite to consume declarative style data files and drive data input automation for Trilogy's DCM application",
+      "Implemented roles based security testing using selenium automation"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Pioneer",
+    "dateStart": "May 2016",
+    "dateEnd": "Sep 2016",
+    "location": "Des Moines, Iowa Area",
+    "description": "Responsible for implementing system acceptance testing using Protractor across multiple applications.",
+    "items": [
+      "Completed backlog of test automation",
+      "Decreased test code compilation time from 20 minutes to 10 seconds",
+      "Integrated protractor tests in to continuos integration/deployment pipeline",
+      "Increased integration to development cycle by pushing for the automation team to attend development meetings",
+      "Implemented load and stress testing of the API using JMeter",
+      "Created application for taking telemetry data and generating JMeter test plans",
+      "Refactored large portions of the testing code base including page objects, test data retrieval, logging and test result reporting",
+      "Overhauled how test data is defined and populated for tests by creating a standardized conventions"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Pioneer",
+    "dateStart": "Dec 2015",
+    "dateEnd": "Apr 2016",
+    "location": "Des Moines, Iowa Area",
+    "description": "Responsible for implementing system acceptance tests for a cross platform mobile application developed with Xamarin",
+    "items": [
+      "Implemented system acceptance testing for a cross platform mobile application developed with Xamarin",
+      "Created application for visualizing spatiotemporal data onto map"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Source Allies, Inc.",
+    "dateStart": "Nov 2015",
+    "dateEnd": "Sep 2016",
+    "location": "Des Moines, Iowa Area",
+    "description": ""
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Zenti, Inc.",
+    "dateStart": "June 2013",
+    "dateEnd": "Oct 2015",
+    "location": "Palo Alto, CA Area",
+    "description": "Responsible for designing, implementing and maintaining system acceptance testing across multiple applications/environments.",
+    "items": [
+      "Moved company from manual QA processes to automated giving us better test coverage, faster deploys and more time for QAs to perform exploratory testing",
+      "Implemented system acceptance testing using Selenium",
+      "Implemented continuous integration deployment pipeline in Jenkins",
+      "Implemented end to end and integration testing of internal/external APIs",
+      "Implemented stress testing of applications and APIs using JMeter",
+      "Implemented unit tests for existing untested code",
+      "Implemented cross validation of the classification engine using a k-fold cross validation",
+      "Created application for text scraping web sites using a rule system based on url pattern matching",
+      "Created application to filter a high throughput data stream using naive bayesian classification and set logic"
+    ]
+  }
+]
