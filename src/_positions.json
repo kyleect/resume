@@ -39,7 +39,7 @@
     "dateEnd": "Oct 2019",
     "location": "Des Moines, Iowa Area",
     "description": "A R&D feature team focused on delivering ag data applications.",
-    "stack": "AWS, Java, Spring Boot, React, Scala, Python, Jenkins, Swagger, Gatling",
+    "stack": "AWS, Java, Spring Boot, jUnit, React, Jest, Typescript, Scala, Python, Ruby, Groovy, Jenkins, Swagger, Gatling, Prometheus",
     "items": [
       "Developed and tested applications",
       "Deployed and maintained AWS infrastructure",
