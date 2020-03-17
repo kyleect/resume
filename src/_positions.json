@@ -94,16 +94,19 @@
     "dateStart": "Sep 2016",
     "dateEnd": "Sep 2017",
     "location": "Des Moines, Iowa Area",
-    "description": "Built out an evergreen QA automation team/practice. Lead those efforts through a subcommittee developing our technology stack, processes, documentation & best practices. Was also the lead QA engineer for my business channel as well as rotating scrum master for channels.",
+    "description": "An evergreen Test Automation team. Lead those efforts through a subcommittee to develop technology stack, processes, documentation & best practices.",
     "stack": "Python, Webdriver, Oracle DB",
     "items": [
-      "Collaborated with product owner, test lead & developers to create test strategy for business channel and test plans for products",
-      "Delivered all test automation for business channel",
+      "Acted as the business channel's test lead",
       "Managed a small team of remote testers",
+      "Delivered all test automation for business channel",
+      "Collaborated with product owner, test lead & developers to create test strategy for business channel and test plans for products",
+      "Participated in a subcommittee for the stack, processes, documentation and best practices for test automation",
       "Implemented library for parsing and validating DTCC data files (POV, COM, FAR)",
       "Implemented library for validating PDF files against a template PDF file",
       "Implemented roles based security end to end test suite",
-      "Created automation suite to input data in to Trilogy DCM using declarative data files"
+      "Created automation suite to input data in to Trilogy DCM using declarative data files",
+      "Rotated scrum master role among business channel test leads"
     ]
   },
   {
@@ -112,8 +115,8 @@
     "dateStart": "June 2013",
     "dateEnd": "Oct 2015",
     "location": "Palo Alto, CA Area",
-    "description": "Responsible for designing, implementing and maintaining system acceptance testing across multiple applications/environments.",
-    "stack": "AWS, Ruby, Ruby On Rails, Webdriver, RSpec, Jenkins, Postgres, Redis",
+    "description": "A 100% remote startup. Responsible for designing, implementing and maintaining system acceptance testing across multiple applications/environments.",
+    "stack": "AWS, Ruby, Ruby On Rails, jQuery, Webdriver, RSpec, Jenkins, Postgres, Redis",
     "items": [
       "Moved company from manual QA processes to automated giving us better test coverage, faster deploys and more time for QAs to perform exploratory testing",
       "Implemented system acceptance testing using Selenium",
