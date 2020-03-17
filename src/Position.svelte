@@ -16,6 +16,14 @@
   .title {
     font-weight: bold;
   }
+
+  .description {
+    margin-top: .5em;
+  }
+
+  .skills {
+    margin-top: .5em;
+  }
 </style>
 
 <p class="title">{title}</p>
@@ -26,10 +34,10 @@
 
 <p class="location">{location}</p>
 
-<p>{description}</p>
+<p class="description">{description}</p>
 
 {#if items}
-  <ul>
+  <ul class="skills">
     {#each items as item}
       <li>{item}</li>
     {/each}
