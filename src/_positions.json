@@ -5,7 +5,14 @@
     "dateStart": "Nov 2015",
     "dateEnd": "Mar 2020",
     "location": "Des Moines, Iowa Area",
-    "description": ""
+    "description": "",
+    "items": [
+      "Conducted peer interviews for potential engineers",
+      "Presented talks and workshops on-site and conferences",
+      "Coaching and pairing with feature teams on testing practices",
+      "Coached individuals on testing practices",
+      "Founded a QA/testing community of practice"
+    ]
   },
   {
     "title": "Test Lead",
