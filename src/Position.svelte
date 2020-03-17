@@ -15,14 +15,16 @@
 
   .title {
     font-weight: bold;
+    font-size: 1.1em;
   }
 
-  .description {
+  .company, .description, .skills {
     margin-top: .5em;
   }
 
-  .skills {
-    margin-top: .5em;
+  .company, .dates, .location, .description, .skills {
+    font-size: .9em;
+
   }
 </style>
 
