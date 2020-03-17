@@ -21,7 +21,7 @@
     "dateStart": "Nov 2019",
     "dateEnd": "Mar 2020",
     "location": "Des Moines, Iowa Area",
-    "description": "Oversaw quality and testing practices on a feature team. Helped delivery feature from concept to first beta users.",
+    "description": "Oversaw quality and testing practices on a feature team. Helped deliver the feature from concept to the first beta users.",
     "stack": "AWS, Angular, Protractor, Typescript, Runscope, Azure DevOps, Python, Locust, MSSQL",
     "items": [
       "Wrote test cases for features implemented by team",
@@ -38,8 +38,8 @@
     "dateStart": "Sep 2017",
     "dateEnd": "Oct 2019",
     "location": "Des Moines, Iowa Area",
-    "description": "R&D feature team focused delivering ag data applications",
-    "stack": "AWS, Java, Spring Boot, React, Scala, Python, Jenkins",
+    "description": "A R&D feature team focused on delivering ag data applications",
+    "stack": "AWS, Java, Spring Boot, React, Scala, Python, Jenkins, Swagger, Gatling",
     "items": [
       "Developed and tested applications",
       "Deployed and maintained AWS infrastructure",
@@ -50,7 +50,7 @@
       "Cross team quality and testing coaching",
       "Provided coaching around javascript, node, React and general web technologies",
       "Developed testing tools and processes for the team",
-      "Creating and maintaining swagger documents for feature APIs",
+      "Created and maintained swagger documents for feature APIs",
       "Participate in on-call rotation in after-hours support of all team's systems"
     ]
   },
@@ -92,7 +92,7 @@
     "dateStart": "Sep 2016",
     "dateEnd": "Sep 2017",
     "location": "Des Moines, Iowa Area",
-    "description": "Built an evergreen QA automation team/practice. Lead those efforts through a subcommittee developing our technology stack, processes, documentation & best practices. I was also the lead QA engineer for my business channel as well as rotating scrum master for channels.",
+    "description": "Built out an evergreen QA automation team/practice. Lead those efforts through a subcommittee developing our technology stack, processes, documentation & best practices. Was also the lead QA engineer for my business channel as well as rotating scrum master for channels.",
     "stack": "Python, Webdriver, Oracle DB",
     "items": [
       "Collaborated with product owner, test lead & developers to create test strategy for business channel and test plans for products",
