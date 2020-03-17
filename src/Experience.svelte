@@ -12,6 +12,7 @@
 
   li {
     margin-bottom: 1em;
+    page-break-inside: avoid;
   }
 </style>
 
