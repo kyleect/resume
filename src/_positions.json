@@ -38,7 +38,7 @@
     "dateStart": "Sep 2017",
     "dateEnd": "Oct 2019",
     "location": "Des Moines, Iowa Area",
-    "description": "A R&D feature team focused on delivering ag data applications.",
+    "description": "An R&D cross functional feature team focused on delivering ag data applications.",
     "stack": "AWS, Java, Spring Boot, jUnit, React, Jest, Typescript, Scala, Python, Ruby, Groovy, Jenkins, Swagger, Gatling, Prometheus",
     "items": [
       "Developed and tested applications",
@@ -118,7 +118,7 @@
     "description": "A 100% remote startup. Responsible for designing, implementing and maintaining system acceptance testing across multiple applications/environments.",
     "stack": "AWS, Ruby, Ruby On Rails, jQuery, Webdriver, RSpec, Jenkins, Postgres, Redis",
     "items": [
-      "Moved company from manual QA processes to automated giving us better test coverage, faster deploys and more time for QAs to perform exploratory testing",
+      "Moved company from manual QA processes to automated giving better test coverage, faster deploys and more time for QAs to perform exploratory testing",
       "Implemented system acceptance testing using Selenium",
       "Implemented continuous integration deployment pipeline in Jenkins",
       "Implemented end to end and integration testing of internal/external APIs",
