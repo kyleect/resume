@@ -39,21 +39,26 @@
   .stack, .skills {
     margin-top: 1em;
   }
+
+
+  .subposition {
+    margin-left: 1em;
+
+  }
 </style>
 
-<p class={subposition ? "subtitle" : "title"}>{title}</p>
+<div class={subposition ? "subposition" : ""}>
+  <p class={subposition ? "subtitle" : "title"}>{title}</p>
 
-<p class="company">{company}</p>
+  <p class="company">{company}</p>
 
-<p class="dates">{dateStart} -- {#if dateEnd}{dateEnd}{/if}</p>
+  <p class="dates">{dateStart} -- {#if dateEnd}{dateEnd}{/if}</p>
 
-<p class="location">{location}</p>
+  <p class="location">{location}</p>
 
-<p class="description">{description}</p>
+  <p class="description">{description}</p>
 
-
-
-{#if items}
+  {#if items}
   <ul class="skills">
     {#each items as item}
       <li>{item}</li>
@@ -64,3 +69,8 @@
 {#if stack}
   <p class="stack">Stack: {stack}</p>
 {/if}
+</div>
+
+
+
+
