@@ -6,12 +6,14 @@
     "dateEnd": "Mar 2020",
     "location": "Des Moines, Iowa Area",
     "description": "Worked as a consultant to clients as well as worked on internal projects.",
+    "stack": "PHP",
     "items": [
       "Conducted peer interviews for potential engineers",
       "Presented talks and workshops on-site and conferences",
-      "Coaching and pairing with feature teams on testing practices",
-      "Coached individuals on testing practices",
-      "Founded a QA/testing community of practice"
+      "Coached and paired with other teams and individuals on testing practices",
+      "Founded a QA/testing community of practice",
+      "Implemented tool to migrate all company repositories from Bamboo to Github",
+      "Implemented tool to scrap a client's legacy website for text & images and upload to their new site"
     ]
   },
   {
@@ -28,6 +30,8 @@
       "Tested features implemented by team",
       "Worked with product owner to accept features",
       "Implemented contract testing for a third party API required for team's primary feature",
+      "Reworked existing end to end test suite to improve stability, code consistency",
+      "Implemented parameterization on end to end test suite to reuse existing tests for team's feature testing",
       "Provided cross team quality/testing coaching and support"
     ]
   },
@@ -38,22 +42,27 @@
     "dateStart": "Sep 2017",
     "dateEnd": "Oct 2019",
     "location": "Des Moines, Iowa Area",
-    "description": "An R&D cross functional feature team focused on delivering ag data applications.",
-    "stack": "AWS, Java, Spring Boot, jUnit, React, Jest, Typescript, Scala, Python, Ruby, Groovy, Jenkins, Swagger, Gatling, Prometheus",
+    "description": "An R&D cross functional feature team delivering ag data applications and services. The team was heavily focused on TDD and pair programming.",
+    "stack": "AWS, Java, Spring Boot, jUnit, React, Jest, Typescript, Scala, Python, Ruby, Groovy, Jenkins, Swagger, Gatling, Prometheus, webdriver.io",
     "items": [
-      "Developed and tested applications",
-      "Deployed and maintained AWS infrastructure through CloudFormation",
-      "Helped drive team towards full cross functionality where development, testing, ops are tasks not roles",
-      "Acted as the team's test lead",
-      "Provided insight to risk mitigation, testing concerns",
-      "Provided quality and testing coaching to the team through pairing and katas",
+      "Worked on several projects directly involved with initial conversations with business, requirements gathering, acceptance criteria, technical spikes and assessments, implementation, deployment, integration with other systems, security, documentation, releasing to beta, fixing initial bugs, releasing to production and providing 24 on call support, updating and maintaining application",
+      "Maintained a large family of 26 inherited legacy applications/services each deploy in 4 environments with varying stacks",
+      "Served as the team's frontend lead helping guide implementation choices as well as providing help with html, css, javascript, React",
+      "Developed several applications both backend (Java, Spring Boot, Scala) and frontend (React)",
+      "Worked on several company community owned libraries to delivery our features",
+      "Deployed and maintained infrastructure as code in AWS using CloudFormation templates",
+      "Reviewed and approved pull requests",
+      "Created and maintained swagger documents for APIs",
+      "Created and implemented data backup plans and strategies",
+      "Implemented features from other teams' backlogs to unblock our delivery",
+      "Worked on several company and team hack-a-thon projects",
+      "Served as the team's test lead developing testing practices, providing insight to risk mitigation, testing concerns to the team and business, quality and testing (including unit testing) coaching to the team through pairing and katas, and championing testing be included with development and devops as tasks not roles",
       "Cross team quality and testing coaching",
-      "Provided coaching around javascript, node, React and general web technologies",
-      "Developed testing tools and processes for the team",
-      "Created and maintained swagger documents for feature APIs",
-      "Participated in on-call rotation in after-hours support of all team's systems",
-      "Developed tool for testing CloudWatch alarms and their integration with xMatters",
-      "Implemented other teams features or backlog to unblock delivery"
+      "Developed and deployed a mock HTTP service for testing our pub-sub data service",
+      "Developed tool for testing CloudWatch alarms integration with xMatters",
+      "Implemented load and stress tests for APIs using Gatling",
+      "Implemented end to end tests using webdriver.io",
+      "Implemented end to end fitness tests for team developed features in company's monolith service"
     ]
   },
   {
@@ -82,10 +91,12 @@
     "dateEnd": "Apr 2016",
     "location": "Des Moines, Iowa Area",
     "description": "A pilot feature team to delivery a mobile application for uploading ag data.",
-    "stack": "C#, Xamarin, iOS, MSSQL, Jenkins",
+    "stack": "C#, Xamarin, iOS, MSSQL, Jenkins, Angular",
     "items": [
+      "Developed features for mobile application",
+      "Implemented a CICD pipeline to deploy builds to the Apple Store via TestFlight",
       "Implemented system acceptance testing for a cross platform mobile application developed with Xamarin",
-      "Created web app for visualizing spatiotemporal ag data onto a map"
+      "Implemented a web app in Angular for visualizing spatiotemporal ag data onto a map"
     ]
   },
   {
@@ -95,15 +106,17 @@
     "dateEnd": "Sep 2017",
     "location": "Des Moines, Iowa Area",
     "description": "An evergreen Test Automation team. Lead those efforts through a subcommittee to develop technology stack, processes, documentation & best practices.",
-    "stack": "Python, Webdriver, Oracle DB",
+    "stack": "Python, Webdriver, Oracle DB, Jenkins",
     "items": [
       "Acted as the business channel's test lead",
-      "Managed a small team of remote testers",
+      "Managed a small team of four remote testers",
       "Delivered all test automation for business channel",
       "Collaborated with product owner, test lead & developers to create test strategy for business channel and test plans for products",
       "Participated in a subcommittee for the stack, processes, documentation and best practices for test automation",
+      "Deployed a jenkins instance and CIDI pipelines for test automation suites",
+      "Implemented a greenfield test framework and runner in Python for selenium/webdriver tests to meet business's specific requirements",
       "Implemented library for parsing and validating DTCC data files (POV, COM, FAR)",
-      "Implemented library for validating PDF files against a template PDF file",
+      "Implemented library for parsing PDF files and validating them against a template PDF file",
       "Implemented roles based security end to end test suite",
       "Created automation suite to input data in to Trilogy DCM using declarative data files",
       "Rotated scrum master role among business channel test leads"
@@ -118,15 +131,16 @@
     "description": "A 100% remote startup. Responsible for designing, implementing and maintaining system acceptance testing across multiple applications/environments.",
     "stack": "AWS, Ruby, Ruby On Rails, jQuery, Webdriver, RSpec, Jenkins, Postgres, Redis",
     "items": [
-      "Moved company from manual QA processes to automated giving better test coverage, faster deploys and more time for QAs to perform exploratory testing",
-      "Implemented system acceptance testing using Selenium",
+      "Automated a large portion of the manual regression test suite. This allowed the other QA to focus on exploratory testing and I could pick up development stories",
+      "Created a frontend application for text scraping web sites using a rule system based on url pattern matching",
+      "Created a frontend application to filter a high throughput data stream using naive bayesian classification and set logic",
+      "Created a frontend application for end users to train text classification categories using Amazon's Mechanical Turk service",
+      "Created and trained several text classification categories",
       "Implemented continuous integration deployment pipeline in Jenkins",
       "Implemented end to end and integration testing of internal/external APIs",
       "Implemented stress testing of applications and APIs using JMeter",
       "Implemented unit tests for existing untested code",
-      "Implemented cross validation of the classification engine using a k-fold cross validation",
-      "Created application for text scraping web sites using a rule system based on url pattern matching",
-      "Created application to filter a high throughput data stream using naive bayesian classification and set logic"
+      "Implemented a k-fold cross validation tool for testing our data sets"
     ]
   }
 ]
