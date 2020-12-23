@@ -2,10 +2,10 @@
   "version": 3,
   "file": "bundle.css",
   "sources": [
-    "../../App.svelte",
-    "../../ContactList.svelte",
-    "../../Experience.svelte",
-    "../../Position.svelte"
+    "../App.svelte",
+    "../ContactList.svelte",
+    "../Experience.svelte",
+    "../Position.svelte"
   ],
   "sourcesContent": [
     "<script>\n\timport ContactList from './ContactList.svelte';\n\timport Experience from './Experience.svelte';\n\timport positions from './_positions.json';\n\timport volunteer from './_volunteer.json';\n\n\tdebugger;\n</script>\n\n<style>\n\tmain {\n\t\tpadding: 3em;\n\t}\n\n\th1 {\n\t\tmargin-top: 0;\n\t\tmargin-bottom: .5em;\n\t}\n\n\th2 {\n\t\tmargin-top: 0;\n\t\tmargin-bottom: .5em;\n\t}\n</style>\n\n<main>\n\t<header>\n\t\t<h1>Kylee Tilley</h1>\n\n\t\t<ContactList />\n\t</header>\n\n\t<p>I'm a developer with a passion for testing. Moving from hobby developer to cutting my teeth at a silicon valley startup. I've worked for several enterprise companies bringing my unique perspective to level up both developers and testers. With a passion for teaching and coaching I've spoken at several local user groups and conferences.</p>\n\n\t<h2>Experience</h2>\n\n\t<Experience {positions} />\n\n\t<h2>Volunteer</h2>\n\n\t<Experience positions={volunteer} />\n</main>\n",
