@@ -9,6 +9,6 @@
 
 <ul>
   <li>515-776-6568</li>
-  <li><a href="mailto:kylee@testingrequired.com">kylee@testingrequired.com</a></li>
+  <li><a href="mailto:kyleetilley@gmail.com">kyleetilley@gmail.com</a></li>
   <li><a href="https://www.linkedin.com/in/kyleetilley/">linkedin.com/in/kyleetilley</a></li>
 </ul>

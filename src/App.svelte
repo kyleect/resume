@@ -2,7 +2,9 @@
 	import ContactList from './ContactList.svelte';
 	import Experience from './Experience.svelte';
 	import positions from './_positions.json';
-	import Position from './Position.svelte';
+	import volunteer from './_volunteer.json';
+
+	debugger;
 </script>
 
 <style>
@@ -28,7 +30,7 @@
 		<ContactList />
 	</header>
 
-	<p>I am a software engineer with several years of experience with development, testing and how they converge when delivering a quality product. Looking for positions where I can lead feature teams towards high delivery.</p>
+	<p>I'm a developer with a passion for testing. Moving from hobby developer to cutting my teeth at a silicon valley startup. I've worked for several enterprise companies bringing my unique perspective to level up both developers and testers. With a passion for teaching and coaching I've spoken at several local user groups and conferences.</p>
 
 	<h2>Experience</h2>
 
@@ -36,11 +38,5 @@
 
 	<h2>Volunteer</h2>
 
-	<Position
-		title="Director of Education"
-		company="Des Moines Area Quality Assurance Association"
-		dateStart="Jan 2019"
-		description="Working to develop the educational content and direction for the user group"
-		location="Des Moines, IA Area"
-	/>
+	<Experience positions={volunteer} />
 </main>

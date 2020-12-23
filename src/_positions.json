@@ -1,6 +1,32 @@
 [
   {
     "title": "Software Engineer",
+    "company": "Lean Techniques",
+    "dateStart": "May 2020",
+    "dateEnd": "",
+    "location": "Des Moines, Iowa Area",
+    "description": "Work as a software engineering consultant to clients",
+    "stack": "",
+    "items": []
+  },
+  {
+    "title": "Software Engineer",
+    "subposition": true,
+    "company": "Hy-Vee",
+    "dateStart": "May 2020",
+    "dateEnd": "",
+    "location": "Des Moines, Iowa Area",
+    "description": "Work supporting and modernizing legacy backend systems around business to business invoicing",
+    "stack": "C#, Kotlin, Spring Boot, MSSQL, GCP, Javascript",
+    "items": [
+      "Supported and modernized legacy backend applications",
+      "Improved team's productivity through coaching good development/delivery practices",
+      "Designed and facilitated learning sessions around topics like testing and TDD",
+      "Created and helped maintained team onboarding documentation/process"
+    ]
+  },
+  {
+    "title": "Software Engineer",
     "company": "Source Allies, Inc.",
     "dateStart": "Nov 2015",
     "dateEnd": "Mar 2020",
@@ -51,15 +77,13 @@
       "Developed several applications both backend (Java, Spring Boot, Scala) and frontend (React)",
       "Worked on several company community owned libraries to delivery our features",
       "Deployed and maintained infrastructure as code in AWS using CloudFormation templates",
-      "Reviewed and approved pull requests",
       "Created and maintained swagger documents for APIs",
       "Created and implemented data backup plans and strategies",
       "Implemented features from other teams' backlogs to unblock our delivery",
       "Worked on several company and team hack-a-thon projects",
       "Served as the team's test lead developing testing practices, providing insight to risk mitigation, testing concerns to the team and business, quality and testing (including unit testing) coaching to the team through pairing and katas, and championing testing be included with development and devops as tasks not roles",
       "Cross team quality and testing coaching",
-      "Developed and deployed a mock HTTP service for testing our pub-sub data service",
-      "Developed tool for testing CloudWatch alarms integration with xMatters",
+      "Developed several testing tools for the team",
       "Implemented load and stress tests for APIs using Gatling",
       "Implemented end to end tests using webdriver.io",
       "Implemented end to end fitness tests for team developed features in company's monolith service"
@@ -113,7 +137,7 @@
       "Delivered all test automation for business channel",
       "Collaborated with product owner, test lead & developers to create test strategy for business channel and test plans for products",
       "Participated in a subcommittee for the stack, processes, documentation and best practices for test automation",
-      "Deployed a jenkins instance and CIDI pipelines for test automation suites",
+      "Deployed a jenkins instance and CICD pipelines for test automation suites",
       "Implemented a greenfield test framework and runner in Python for selenium/webdriver tests to meet business's specific requirements",
       "Implemented library for parsing and validating DTCC data files (POV, COM, FAR)",
       "Implemented library for parsing PDF files and validating them against a template PDF file",
